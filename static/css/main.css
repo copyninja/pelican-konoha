@@ -18,7 +18,8 @@ body {
     background: #F5F4EF url('../images/bg.png');
     color: #000305;
     font-size: 87.5%; /* Base font size: 14px */
-    font-family: 'Sorts Mill Goudy Italic', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Sorts Mill Goudy', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
     line-height: 1.429;
     margin: 0;
     padding: 0;
