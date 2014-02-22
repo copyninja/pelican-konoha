@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Sorts Mill Goudy';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sorts Mill Goudy Regular'), local('SortsMillGoudy-Regular'), url(http://themes.googleusercontent.com/static/fonts/sortsmillgoudy/v4/JzRrPKdwEnE8F1TDmDLMUhxcROG_7vu2ubkyRjqgeRY.ttf) format('truetype');
+}
