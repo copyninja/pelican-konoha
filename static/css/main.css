@@ -159,7 +159,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
     	    margin: 0 auto 0 auto;
     }
 	#banner h1 a:link, #banner h1 a:visited {
-		color: #000305;
+		color: #C63459;
 		display: block;
 		font-weight: bold;
 		margin: 0 auto .6em auto;
@@ -168,7 +168,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	}
 	#banner h1 a:hover, #banner h1 a:active {
 		background: none;
-		color: #C74350;
+		color: #012345;
 		text-shadow: none;
 	}
 	
@@ -176,7 +176,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	
 	/* Main Nav */
 	#banner nav {
-		background: #000305;
+		background: #012359;
 		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
@@ -254,7 +254,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 
 #sidebar h2 {
 	color: #C74350;
-	font-size: 1.429em;
+	font-size: 1.5em;
 	margin-top: .75em;
 	margin-bottom: .25em;
 	padding: 0 3px;
