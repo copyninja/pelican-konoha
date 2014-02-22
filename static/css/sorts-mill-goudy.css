@@ -4,10 +4,10 @@
   font-weight: 400;
   src: local('Sorts Mill Goudy Regular'),
   local('SortsMillGoudy-Regular'),
-  url("/theme/css/fonts/GoudyStM-webfont.woff"),
-  url("/theme/css/fonts/GoudyStM-webfonts.eot"),
-  url("/theme/css/fonts/GoudyStM-webfonts.svg"),
-  url("/theme/css/fonts/GoudyStM-Italic-webfonts.woff"),
-  url("/theme/css/fonts/GoudyStM-Italic-webfonts.eot"),
-  url("/theme/css/fonts/GoudyStM-Italic-webfonts.svg");
+  url(/theme/css/fonts/GoudyStM-webfont.woff),
+  url(/theme/css/fonts/GoudyStM-webfonts.eot),
+  url(/theme/css/fonts/GoudyStM-webfonts.svg),
+  url(/theme/css/fonts/GoudyStM-Italic-webfonts.woff),
+  url(/theme/css/fonts/GoudyStM-Italic-webfonts.eot),
+  url(/theme/css/fonts/GoudyStM-Italic-webfonts.svg);
 }
