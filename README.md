@@ -1,7 +1,4 @@
-# notmyidea-cms #
+#Konoha#
 
-
-
-## Screenshot ##
-
-![screenshot](screenshot.png)
+This theme is derived from _notmyidea-cms_ and is used in my personal
+[site](http://copyninja.info)
